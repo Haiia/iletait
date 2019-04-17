@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3272499"
-     inkscape:cx="108.09714"
-     inkscape:cy="677.52572"
+     inkscape:cx="-170.58035"
+     inkscape:cy="534.53994"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -166,7 +166,9 @@
        inkscape:path-effect="#path-effect6946"
        id="g6942" />
     <g
-       id="g7065">
+       id="g7065"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g7060">
         <path
@@ -193,7 +195,9 @@
     <g
        id="g7104"
        transform="matrix(-1,0,0,1,72.123067,-15.551686)"
-       inkscape:path-effect="#path-effect7106">
+       inkscape:path-effect="#path-effect7106"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          inkscape:original-d="m -30.34191,250.69026 c 1.63627,-2.06795 44.817,-56.0652 95.95718,-119.99392 l 92.98214,-116.234032 0.37798,68.956442 c 0.20788,37.92605 0.26051,91.50885 0.11693,119.07289 l -0.26105,50.11645 -3.51871,0.4184 C 153.37727,253.2566 27.62473,229.1125 -19.3806,248.65583 l -13.93635,5.7943 z"
          inkscape:path-effect="#path-effect7082"
