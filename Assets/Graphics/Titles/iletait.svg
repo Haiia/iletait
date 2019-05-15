@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="iletait.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient849">
+      <stop
+         style="stop-color:#e3f4d7;stop-opacity:1"
+         offset="0"
+         id="stop845" />
+      <stop
+         style="stop-color:#17280b;stop-opacity:1"
+         offset="1"
+         id="stop847" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient28">
+      <stop
+         style="stop-color:#225500;stop-opacity:1;"
+         offset="0"
+         id="stop24" />
+      <stop
+         id="stop32"
+         offset="0.24873085"
+         style="stop-color:#507f15;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ddff55;stop-opacity:1"
+         offset="0.50761408"
+         id="stop34" />
+      <stop
+         id="stop36"
+         offset="0.51776636"
+         style="stop-color:#112b00;stop-opacity:1" />
+      <stop
+         style="stop-color:#89a02c;stop-opacity:1"
+         offset="0.82233489"
+         id="stop38" />
+      <stop
+         style="stop-color:#bcd35f;stop-opacity:1"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28"
+       id="linearGradient30"
+       x1="-8.4189901"
+       y1="229.24718"
+       x2="-8.4189901"
+       y2="255.57323"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.45035665,0,0,0.45035665,51.923484,42.596724)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient849"
+       id="linearGradient851"
+       x1="43.308262"
+       y1="144.39041"
+       x2="43.308262"
+       y2="158.53821"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="392.87469"
+     inkscape:cy="633.83847"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:none">
+    <rect
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10"
+       width="155"
+       height="130.0238"
+       x="25.702381"
+       y="73.238091" />
+  </g>
+  <g
+     inkscape:label="Text"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.18745613px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient30);fill-opacity:1;stroke:url(#linearGradient851);stroke-width:0.99999999;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="42.546169"
+       y="158.5804"
+       id="text14"
+       transform="scale(1.0254903,0.97514332)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="42.546169"
+         y="158.5804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient30);fill-opacity:1;stroke:url(#linearGradient851);stroke-width:0.99999999;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">IL ETAIT...</tspan></text>
+  </g>
+</svg>
